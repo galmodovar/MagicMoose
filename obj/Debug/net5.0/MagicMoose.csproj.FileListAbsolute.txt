@@ -1,0 +1,16 @@
+/home/galmodovar/workspace/csharp/MagicMoose/bin/Debug/net5.0/MagicMoose
+/home/galmodovar/workspace/csharp/MagicMoose/bin/Debug/net5.0/MagicMoose.deps.json
+/home/galmodovar/workspace/csharp/MagicMoose/bin/Debug/net5.0/MagicMoose.runtimeconfig.json
+/home/galmodovar/workspace/csharp/MagicMoose/bin/Debug/net5.0/MagicMoose.runtimeconfig.dev.json
+/home/galmodovar/workspace/csharp/MagicMoose/bin/Debug/net5.0/MagicMoose.dll
+/home/galmodovar/workspace/csharp/MagicMoose/bin/Debug/net5.0/ref/MagicMoose.dll
+/home/galmodovar/workspace/csharp/MagicMoose/bin/Debug/net5.0/MagicMoose.pdb
+/home/galmodovar/workspace/csharp/MagicMoose/obj/Debug/net5.0/MagicMoose.csproj.AssemblyReference.cache
+/home/galmodovar/workspace/csharp/MagicMoose/obj/Debug/net5.0/MagicMoose.GeneratedMSBuildEditorConfig.editorconfig
+/home/galmodovar/workspace/csharp/MagicMoose/obj/Debug/net5.0/MagicMoose.AssemblyInfoInputs.cache
+/home/galmodovar/workspace/csharp/MagicMoose/obj/Debug/net5.0/MagicMoose.AssemblyInfo.cs
+/home/galmodovar/workspace/csharp/MagicMoose/obj/Debug/net5.0/MagicMoose.csproj.CoreCompileInputs.cache
+/home/galmodovar/workspace/csharp/MagicMoose/obj/Debug/net5.0/MagicMoose.dll
+/home/galmodovar/workspace/csharp/MagicMoose/obj/Debug/net5.0/ref/MagicMoose.dll
+/home/galmodovar/workspace/csharp/MagicMoose/obj/Debug/net5.0/MagicMoose.pdb
+/home/galmodovar/workspace/csharp/MagicMoose/obj/Debug/net5.0/MagicMoose.genruntimeconfig.cache
